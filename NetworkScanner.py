@@ -46,4 +46,4 @@ def scanPortINRange():  # scanning in range,given by the user
     sys.exit()
 
 def ScanAllPorts():
-    pass
+    print("hi")
